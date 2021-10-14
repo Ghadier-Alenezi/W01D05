@@ -85,7 +85,7 @@ for (startArange; startArange <= endArange; startArange++) {
 }
 
 
-/* stars
+//q12. stars
 let s = 6;
 let xs = 6;
 
@@ -103,4 +103,3 @@ for (let i = 1; i < s; i++) {
 }
 
 console.log(starStair);
-*/
